@@ -1,1 +1,1 @@
-Here is part 1 and part 2 of assignment two
+Here is part 1 and part 2 of assignment two.  Assignmentpart1 is the outputs of the first part and assignmnetpart2 is the outputs of part two.  For part one it is easy to use with a menu thatwill let you choose what you want to do.  Same goes for part 2, the only yhing about part two is when pushing you have to do them in serpate actions. 
